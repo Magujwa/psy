@@ -1062,241 +1062,6 @@
 
     }
 
-  
-
-    /* =========================================================
-       EXTRA MOBILE RESPONSIVENESS
-       Design/content unchanged
-    ========================================================= */
-
-    @media (max-width: 480px) {
-
-      /* Navigation */
-      .nav {
-        width: calc(100% - 20px);
-        padding: 10px 11px;
-        gap: 8px;
-      }
-
-      .brand {
-        min-width: 0;
-        gap: 7px;
-        padding-left: 3px;
-        font-size: 1rem;
-      }
-
-      .brand-mark {
-        width: 27px;
-        height: 27px;
-        min-width: 27px;
-        font-size: 0.82rem;
-      }
-
-      .nav-cta {
-        flex-shrink: 0;
-        padding: 9px 12px;
-        font-size: 0.68rem;
-        white-space: nowrap;
-      }
-
-      /* Hero */
-      .hero-content {
-        padding-top: 105px;
-      }
-
-      .hero-copy {
-        width: 100%;
-      }
-
-      .hero h1 {
-        max-width: 100%;
-        font-size: clamp(3rem, 15vw, 4.6rem);
-        line-height: 0.98;
-      }
-
-      .hero-description {
-        margin-top: 22px;
-        font-size: 0.92rem;
-        line-height: 1.7;
-      }
-
-      .hero-actions {
-        width: 100%;
-        margin-top: 28px;
-        flex-direction: column;
-      }
-
-      .hero-actions .btn {
-        width: 100%;
-      }
-
-      .hero-note {
-        margin-top: 20px;
-        font-size: 0.7rem;
-      }
-
-      /* General typography */
-      h2 {
-        font-size: 2.8rem;
-        line-height: 1;
-      }
-
-      h3 {
-        font-size: 1.8rem;
-      }
-
-      .section-heading p {
-        margin-top: 18px;
-      }
-
-      /* Sections */
-      .section {
-        padding: 70px 0;
-      }
-
-      .eyebrow {
-        margin-bottom: 14px;
-        font-size: 0.66rem;
-      }
-
-      /* Intro */
-      .intro-strip {
-        padding: 35px 0;
-      }
-
-      .intro-item strong {
-        font-size: 1.5rem;
-      }
-
-      /* About */
-      .about-grid {
-        gap: 40px;
-      }
-
-      .about-image {
-        height: 320px;
-      }
-
-      .about-card {
-        padding: 20px;
-      }
-
-      /* Services */
-      .service-grid {
-        margin-top: 40px;
-        gap: 14px;
-      }
-
-      .service-card {
-        min-height: 250px;
-        padding: 25px;
-      }
-
-      /* Approach */
-      .approach-grid {
-        margin-top: 40px;
-        gap: 14px;
-      }
-
-      .approach-card {
-        padding: 28px;
-      }
-
-      .approach-number {
-        margin-bottom: 35px;
-      }
-
-      /* What to expect */
-      .expect-grid {
-        gap: 40px;
-      }
-
-      .expect-image {
-        height: 320px;
-      }
-
-      .expect-item {
-        padding: 16px;
-      }
-
-      /* FAQ */
-      .faq-list {
-        margin-top: 35px;
-      }
-
-      summary {
-        font-size: 1.3rem;
-      }
-
-      details {
-        padding: 20px 0;
-      }
-
-      /* Location */
-      .location-grid {
-        gap: 16px;
-      }
-
-      .location-card {
-        min-height: auto;
-        padding: 28px;
-      }
-
-      .location-map {
-        min-height: 300px;
-      }
-
-      .location-map iframe {
-        min-height: 300px;
-      }
-
-      /* Payment */
-      .payment-grid {
-        margin-top: 35px;
-        gap: 14px;
-      }
-
-      .payment-card {
-        padding: 28px;
-      }
-
-      .payment-card strong {
-        font-size: 1.7rem;
-      }
-
-      /* Policy */
-      .policy-box {
-        padding: 25px;
-      }
-
-      /* Contact */
-      .contact {
-        padding: 90px 0;
-      }
-
-      .contact-actions {
-        flex-direction: column;
-      }
-
-      .contact-actions .btn {
-        width: 100%;
-      }
-
-      .whatsapp-number {
-        font-size: 0.78rem;
-      }
-
-      /* Footer */
-      footer {
-        padding: 35px 0;
-      }
-
-      .footer-grid {
-        gap: 20px;
-      }
-
-    }
-
   </style>
 </head>
 
@@ -1338,7 +1103,7 @@
 
     <!-- REPLACE NUMBER -->
     <a
-      href="https://wa.me/26878370650"
+      href="https://wa.me/268XXXXXXXX"
       class="nav-cta"
       target="_blank"
       rel="noopener"
@@ -1386,7 +1151,7 @@
           <!-- REPLACE NUMBER -->
 
           <a
-            href="https://wa.me/26878370650"
+            href="https://wa.me/268XXXXXXXX"
             class="btn btn-primary"
             target="_blank"
             rel="noopener"
@@ -2255,7 +2020,7 @@
           <!-- REPLACE NUMBER -->
 
           <a
-            href="https://wa.me/26878370650"
+            href="https://wa.me/268XXXXXXXX"
             class="btn btn-primary"
             target="_blank"
             rel="noopener"
@@ -2277,12 +2042,12 @@
         <!-- REPLACE NUMBER -->
 
         <a
-          href="https://wa.me/26878370650"
+          href="https://wa.me/268XXXXXXXX"
           class="whatsapp-number"
           target="_blank"
           rel="noopener"
         >
-       
+          WhatsApp · +268 XX XX XXXX
         </a>
 
       </div>
@@ -2318,7 +2083,7 @@
 
         <div class="footer-credit">
 
-          Built by
+          Website crafted by
           <strong>MAGUJWA</strong>
 
         </div>
